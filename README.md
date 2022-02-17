@@ -1,3 +1,1 @@
-# GoogleCloud
-
-# Scripts to help with GCP Billing
+#Collection of scripts to help with GCP
