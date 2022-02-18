@@ -1,3 +1,6 @@
+-- this script is based on the Billing export to BQ, it includes both detailed usage data and pricing data
+-- this script provides a breakdown of Marketplace consumption project level
+
 select billing_table.billing_account_id, 
 billing_table.project.id,
 billing_table.service.description,
